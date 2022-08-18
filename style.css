@@ -1,0 +1,137 @@
+.font{ 
+    list-style: none;
+    display: inline-block;
+}
+/* .font{
+    text-decoration: none;
+} */
+.circle{
+    width: 35px;
+    height: 35px;
+    border-radius: 35px;
+    /* text-align: center; */
+    border: 1px solid rgb(228, 226, 226);
+    background: linear-gradient(rgb(212, 211, 211),white);
+    display: inline-block;
+}
+.wide{
+    width: 200px;
+}
+.login:hover{
+    text-decoration: none;
+}
+.main{
+    position: relative;
+    text-align: center;
+    /* color: white; */
+}
+.centered{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.btn1{
+    border: none;
+}
+.fsize{
+    font-size: smaller;
+}
+.cardborder{
+    border: 1px solid rgb(247, 243, 243); 
+   
+}
+dl, ol, ul{
+    margin-bottom: 0px;
+} 
+.form1{
+    border: 2px solid black;
+}
+.form1 > input{
+    border: none;
+}
+.form1 > button{
+    border-radius: inherit;
+}
+.sel{
+    height: 40px;
+border: 2px solid black;
+}
+.btn1{
+    height: 38px;  
+}
+form:active{
+    border: 2px solid cyan;
+}
+.btnborder{
+    border: 2px solid black;
+    border-radius: 0px;
+}
+.btnborder:hover{
+    border: 3px solid black;
+}
+form:focus{
+     border: 2px solid cyan;
+}
+.font1{
+    font-size: 18px;
+    /* font-weight: 450; */
+}
+.margin1{
+    margin-left: 10px;
+}
+.margin2{
+    margin-left: 120px;
+}
+.margin3{
+    margin-left: 85px;
+}
+.margin4{
+    margin-left: 145px;
+}
+.border1{
+    border-left: 4px solid rgb(255, 217, 0);
+    
+}
+.featured{
+    font-size: 10px;
+    padding: 2px;
+    width: 70px;
+    height:20px;
+    border-radius: 3px;
+    background-color: rgb(255, 217, 0);
+}
+.pos1{
+    position: relative;
+    bottom: 20px;
+    left: 5px;
+    
+}
+.icons{
+    width: 22px;
+    height: 22px;
+    /* border-radius: 20px; */
+    border: 1px solid black;
+    opacity: 0.5;
+    font-size: small;
+}
+.font2{
+  font-size: small;
+  line-height: 15px;
+}
+.font3{
+    font-size: x-small;
+   
+}
+.bgcolor1{
+    background-color: rgb(1, 92, 92);
+}
+.border2{
+    border-left: 4px solid rgb(153, 151, 151) ;
+}
+.font4{
+font-size: large;
+}
+.listyle{
+    list-style: none;
+}
